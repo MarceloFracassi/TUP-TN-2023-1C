@@ -1,0 +1,10 @@
+.date-container {
+    width: 80%;
+    background-color: green;
+    color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    border: 7px solid black;
+    border-radius: 50px;
+  }
